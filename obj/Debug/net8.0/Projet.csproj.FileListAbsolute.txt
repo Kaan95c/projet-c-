@@ -1,0 +1,17 @@
+C:\Users\utilisateurpc\Documents\projetc#\bin\Debug\net8.0\Projet.exe
+C:\Users\utilisateurpc\Documents\projetc#\bin\Debug\net8.0\Projet.deps.json
+C:\Users\utilisateurpc\Documents\projetc#\bin\Debug\net8.0\Projet.runtimeconfig.json
+C:\Users\utilisateurpc\Documents\projetc#\bin\Debug\net8.0\Projet.dll
+C:\Users\utilisateurpc\Documents\projetc#\bin\Debug\net8.0\Projet.pdb
+C:\Users\utilisateurpc\Documents\projetc#\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\utilisateurpc\Documents\projetc#\obj\Debug\net8.0\Projet.csproj.AssemblyReference.cache
+C:\Users\utilisateurpc\Documents\projetc#\obj\Debug\net8.0\Projet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utilisateurpc\Documents\projetc#\obj\Debug\net8.0\Projet.AssemblyInfoInputs.cache
+C:\Users\utilisateurpc\Documents\projetc#\obj\Debug\net8.0\Projet.AssemblyInfo.cs
+C:\Users\utilisateurpc\Documents\projetc#\obj\Debug\net8.0\Projet.csproj.CoreCompileInputs.cache
+C:\Users\utilisateurpc\Documents\projetc#\obj\Debug\net8.0\Projet.csproj.CopyComplete
+C:\Users\utilisateurpc\Documents\projetc#\obj\Debug\net8.0\Projet.dll
+C:\Users\utilisateurpc\Documents\projetc#\obj\Debug\net8.0\refint\Projet.dll
+C:\Users\utilisateurpc\Documents\projetc#\obj\Debug\net8.0\Projet.pdb
+C:\Users\utilisateurpc\Documents\projetc#\obj\Debug\net8.0\Projet.genruntimeconfig.cache
+C:\Users\utilisateurpc\Documents\projetc#\obj\Debug\net8.0\ref\Projet.dll
